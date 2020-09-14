@@ -17,6 +17,7 @@ import {
 
 import '@vkontakte/vkui/dist/vkui.css';
 
+
 class App extends React.Component {
 
 	constructor(props) {
